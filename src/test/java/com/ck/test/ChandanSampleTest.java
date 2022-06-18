@@ -1,3 +1,4 @@
+package com.ck.test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
